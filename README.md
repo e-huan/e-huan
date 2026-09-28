@@ -1,5 +1,25 @@
 Elaine is currently a research assistant with the [MIND Lab](https://mindlabresearch.com/) at Mount Sinai's Icahn School of Medicine. 
 
+---
+
+#### Current work
+* Modeling how regional brain structure relates to the timing of substance use onset in adolescents, using mixed-effects models in R
+#### Where to reach me
+* [elaine.huan@mssm.edu](elaine.huan@mssm.edu) · [elainehuan.z@gmail.com](elainehuan.z@gmail.com)
+
+---
+
+#### Interests:
+![Cognition](https://img.shields.io/badge/%F0%9F%A7%A0%20Cognition-8E6BBF?style=flat)
+![Behavioral Science](https://img.shields.io/badge/%F0%9F%A7%A9%20Behavioral%20Science-D4A017?style=flat)
+![Human-Computer Interaction](https://img.shields.io/badge/%F0%9F%92%BB%20Human--Computer%20Interaction-4A90B8?style=flat)
+![Machine Learning](https://img.shields.io/badge/%F0%9F%A4%96%20Machine%20Learning-2A9D8F?style=flat)
+![Digital Health](https://img.shields.io/badge/%F0%9F%A9%BA%20Digital%20Health-E07A5F?style=flat)            
+#### Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 <!-- With the mentorship of [Dr. Shalaila Haas](https://github.com/shalailahaas), -->
 
