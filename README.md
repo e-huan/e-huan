@@ -1,4 +1,7 @@
-## Hi there 👋
+Elaine is currently a research assistant with the [MIND Lab](https://mindlabresearch.com/) at Mount Sinai's Icahn School of Medicine. 
+
+
+<!-- With the mentorship of [Dr. Shalaila Haas](https://github.com/shalailahaas), -->
 
 <!--
 **e-huan/e-huan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
