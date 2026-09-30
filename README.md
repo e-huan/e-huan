@@ -1,4 +1,4 @@
-Elaine is currently a research assistant with the [MIND Lab](https://mindlabresearch.com/) at Mount Sinai's Icahn School of Medicine. 
+Elaine is currently a research assistant with the [MIND Lab](https://mindlabresearch.com/) at Mount Sinai's Icahn School of Medicine. She studies Psychology and Computer Science as a Macaulay Honors Scholar at the City College of New York. Before joining the MIND team, Elaine conducted human-computer research with Cornell Tech's [Interaction Research Lab](https://irl.tech.cornell.edu/), deploying public service robots in New York parks and studying interaction data. She then joined the [ZVR Lab](https://www.urmc.rochester.edu/labs/zvr) at the University of Rochester, researching learning trajectories and biomarkers in trauma-exposed individuals. 
 
 ---
 
